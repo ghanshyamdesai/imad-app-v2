@@ -42,7 +42,7 @@ function createTemplate(data){
     var heading= data.heading;
     var content= data.content;
      
-    vat htmlTemplate=`
+    var htmlTemplate=`
     <html>
         <head>
             <title>
